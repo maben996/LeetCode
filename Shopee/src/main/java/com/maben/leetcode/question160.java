@@ -14,6 +14,7 @@ public class question160 {
         }
         return tmp1;
     }
+
     /**
      * pA:1->2->3->4->5->6->null->9->5->6->null
      * pB:9->5->6->null->1->2->3->4->5->6->null
